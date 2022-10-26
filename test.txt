@@ -26,3 +26,9 @@ C:/Users/user/intro_dev/sql-test-aylinsanmartin/migrations/08_seed_data.sql
 C:/Users/user/intro_dev/sql-test-aylinsanmartin/queryes/01_more_expensive_pizza.sql
 
 C:/Users/user/intro_dev/sql-test-aylinsanmartin/queryes/02_max_quantity.sql
+
+C:/Users/user/intro_dev/sql-test-aylinsanmartin/queryes/03_max_income.sql
+
+C:/Users/user/intro_dev/sql-test-aylinsanmartin/migrations/00_create_datbase.sql
+
+C:/Users/user/intro_dev/sql-test-aylinsanmartin/migrations/06_create_orders.sql
