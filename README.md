@@ -25,15 +25,15 @@ Respalde su respuesta con un archivo sql por cada pregunta.
 
 > 1. ¿Cuál es el valor de la pizza más cara?
 
-Respuesta: 
+Respuesta: 11600
 
 > 2. ¿Cuál es el nombre de la pizza más vendida(unidades total)?
 
-Respuesta:
+Respuesta:deluxe y romana 
 
 > 3. ¿Cuál es el nombre de la pizza más vendida(ingresos totales)?
 
-Respuesta:
+Respuesta:deluxe 
 
 > 4. Cuál es el tamaño de pizza más vendido?
 
